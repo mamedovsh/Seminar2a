@@ -16,17 +16,4 @@ public class Main {
     }
 }
 
-//        String s = "select * from students where ";
-//        String jsonFilter = "{\"name\":\"Ivanov\", \"country\":\"Russia\", \"city\":\"Moscow\", \"age\":\"null\"}";
-//
-//        //StringBuilder sb = new StringBuilder(s)
-//        jsonFilter = jsonFilter
-//                .replace("{", "")
-//                .replace("}", "")
-//                .replace("\"", "");
-//
-//        String[] jsonFilterArray = jsonFilter.split(", ");
-//        StringBuilder.append(jsonFilter[0]).append(" = '").append(jsonFilter[1]).append("' and ");
-//    }
-//}
 
